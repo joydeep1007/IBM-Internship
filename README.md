@@ -71,9 +71,7 @@ This project aims to provide an accessible, intelligent, and user-friendly AI ag
 
 ## 📁 GitHub Repository
 
-> [Insert your GitHub link here]
-
-> Make sure this README is included in the root of your repository.
+> https://github.com/joydeep1007/IBM-Internship.git
 
 ---
 
